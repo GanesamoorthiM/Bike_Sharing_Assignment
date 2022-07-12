@@ -1,4 +1,4 @@
-# Bike Sharing Case Study> 
+# Bike Sharing Case Study
 A bike-sharing system in which bikes are made available for shared use to individuals on a short term basis for a price or free. It allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 
@@ -20,11 +20,9 @@ A bike-sharing system in which bikes are made available for shared use to indivi
 
 
 ## General Information
-- 
--Identify the demends of bikes based on the independent variable.
--Help the Management to adapt the business strategy to meet the demand levels and meet the customer's expectations. -->
-
-
+ 
+- Identify the demends of bikes based on the independent variable.
+- Help the Management to adapt the business strategy to meet the demand levels and meet the customer's expectations
 
 ## Conclusions
 
